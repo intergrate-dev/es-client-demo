@@ -1,0 +1,8 @@
+server:
+  port: 8090
+
+# docker-cluster
+spring:
+  data:
+    elasticsearch:
+      cluster-name: 172.19.207.201
